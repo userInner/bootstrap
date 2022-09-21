@@ -1,0 +1,25 @@
+body {
+    background-color: #ffffff;
+}
+
+
+.nav-ul-margin li {
+    margin-right: 5px;
+}
+
+#navbar-header-list li:hover div {
+    color: #eab56d;
+}
+
+#title-content::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0px;
+    width: 17.5%;
+    height: 1px;
+    background: currentcolor;
+}
+.bgyello{
+    background-color: #f9e8d0;
+}
